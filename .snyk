@@ -1,5 +1,4 @@
 Snyk (https://snyk.io) policy file, patches
-version: v1.25.0
 #language-settings: 
 # patches apply the minimum changes required to fix a vulnerability
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
